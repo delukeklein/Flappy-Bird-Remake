@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bird
+  - Pipe
+  - Landscape
+  - Tap to Play
+  - Score Hit Box
+  - Button
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2291545927
+    locked: 0
+  - name: Bird
+    uniqueID: 2731131775
+    locked: 0
+  - name: Pipes
+    uniqueID: 1450495767
+    locked: 0
+  - name: UI
+    uniqueID: 3094470023
+    locked: 0
+  - name: Landscape
+    uniqueID: 1086893771
+    locked: 0
+  - name: Pause Overlay
+    uniqueID: 3683252057
+    locked: 0
+  - name: Button
+    uniqueID: 3345352001
+    locked: 0
